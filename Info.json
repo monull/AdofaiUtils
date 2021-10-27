@@ -1,0 +1,8 @@
+{
+  "Id": "AdofaiUtils",
+  "DisplayName": "Adofai Utils",
+  "Author": "Xenon2452",
+  "Version": "0.0.1",
+  "AssemblyName": "AdofaiUtils.dll",
+  "EntryMethod": "AdofaiUtils.Main.Load"
+}
